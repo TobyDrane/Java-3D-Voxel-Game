@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.idkstudios.game.datastructures.AABBObject"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.utils.IOUtils"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.rendering.ChunkMeshBuilder"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.rendering.GLUtils"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.game.Configuration"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.inventory.Inventory"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.game.Game"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.game.PerformanceMonitor.Operation"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.blocks.Block"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.blocks.customblocks.Container"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.inventory.DoubleContainerInventory"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.items.tools.wood.WoodenHoe"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.items.tools.stone.StoneHoe"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.blocks.BlockManager"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.blocks.DefaultBlock"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.blocks.DefaultBlockBrush"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.math.Vec2f"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.Side"/>
+<fullyQualifiedTypeName name="com.idkstudios.game.game.ControlSettings"/>
+</qualifiedTypeNameHistroy>

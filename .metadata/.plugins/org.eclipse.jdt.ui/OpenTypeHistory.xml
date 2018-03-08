@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=Block Game/src&lt;com.idkstudios.game.world{World.java[World" modifiers="1" timestamp="1488573588000"/>
+<typeInfo handle="=Block Game/src&lt;com.idkstudios.game.blocks.customblocks{Torch.java[Torch" modifiers="1" timestamp="1488572167000"/>
+<typeInfo handle="=Block Game/src&lt;com.idkstudios.game.blocks.customblocks{CraftingTable.java[CraftingTable" modifiers="1" timestamp="1488571908000"/>
+<typeInfo handle="=Block Game/src&lt;com.idkstudios.game.math{MathHelper.java[MathHelper" modifiers="1" timestamp="1440423814000"/>
+<typeInfo handle="=Block Game/src&lt;com.idkstudios.game.game{Configuration.java[Configuration" modifiers="1" timestamp="1440431872000"/>
+<typeInfo handle="=Block Game/src&lt;com.idkstudios.game{GameMain.java[GameMain" modifiers="1" timestamp="1440787776000"/>
+<typeInfo handle="=Block Game/src&lt;com.idkstudios.game.world{Chunk.java[Chunk[LightType" modifiers="16393" timestamp="1487968613000"/>
+<typeInfo handle="=Block Game/src&lt;com.idkstudios.game.world{Chunk.java[Chunk" modifiers="1" timestamp="1487968613000"/>
+<typeInfo handle="=Block Game/src&lt;com.idkstudios.game.game{ControlSettings.java[ControlSettings" modifiers="1" timestamp="1440701676000"/>
+<typeInfo handle="=Block Game/src&lt;com.idkstudios.game.world.characters{Player.java[Player" modifiers="1" timestamp="1440755311000"/>
+<typeInfo handle="=Block Game/src&lt;com.idkstudios.game.game{Game.java[Game" modifiers="1" timestamp="1488572503000"/>
+</typeInfoHistroy>

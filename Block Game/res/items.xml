@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<item name="stick">
+		<texture>5,3</texture>
+		<stackable>true</stackable>
+	</item>
+
+	<item name="coal">
+		<texture>7,0</texture>
+		<stackable>true</stackable>
+	</item>
+
+	<item name="feather">
+		<texture>8,1</texture>
+		<stackable>true</stackable>
+	</item>
+
+	<item name="wooden_shovel" class="com.idkstudios.game.items.tools.wood.WoodenShovel" />
+	<item name="wooden_pickaxe" class="com.idkstudios.game.items.tools.wood.WoodenPickaxe" />
+	<item name="wooden_axe" class="com.idkstudios.game.items.tools.wood.WoodenAxe" />
+	<item name="wooden_sword" class="com.idkstudios.game.items.tools.wood.WoodenSword" />
+	<item name="wooden_hoe" class="com.idkstudios.game.items.tools.wood.WoodenHoe" />
+	
+	<item name="stone_shovel" class="com.idkstudios.game.items.tools.stone.StoneShovel" />
+	<item name="stone_pickaxe" class="com.idkstudios.game.items.tools.stone.StonePickaxe" />
+	<item name="stone_axe" class="com.idkstudios.game.items.tools.stone.StoneAxe" />
+	<item name="stone_hoe" class="com.idkstudios.game.items.tools.stone.StoneHoe" />
+	
+	<item name="bedrock_pickaxe" class="com.idkstudios.game.items.tools.BedrockPickaxe" />
+	<item name="bedrock_sword" class="com.idkstudios.game.items.tools.BedrockSword" />
+	<item name="bedrock_shovel" class="com.idkstudios.game.items.tools.BedrockShovel" />
+	<item name="bedrock_axe" class="com.idkstudios.game.items.tools.BedrockAxe" />
+</root>
